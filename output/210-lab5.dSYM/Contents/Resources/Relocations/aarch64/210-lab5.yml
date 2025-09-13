@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/chevinjeon/Documents/COMSC-210-5470/Lab5/output/210-lab5'
+relocations:     []
+...
